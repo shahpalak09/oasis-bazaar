@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Scrap Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-4.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 120 \u00b7 Type: Plain Rulled Dark Rulled"
+  },
+  {
+    "name": "Sketch Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-5.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A3 A4 A5 A6 \u00b7 GSM: 140 \u00b7 Type: Plain Rulled Dark Rulled"
+  },
+  {
+    "name": "Journal Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-6.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A5 \u00b7 GSM: 80 \u00b7 Type: Rulled"
+  },
+  {
+    "name": "Sketch Drawing Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-7.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A3 A4 SKETCH \u00b7 GSM: 100 \u00b7 Type: Wiro"
+  },
+  {
+    "name": "Long Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-8.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 58 LONG \u00b7 Pack: 12 6 \u00b7 Type: Rulled"
+  },
+  {
+    "name": "Extra Strong Cloth Patty",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-9.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Pack: 12 \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Refill Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-10.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 70 REFILL \u00b7 Type: Rulled"
+  },
+  {
+    "name": "Subject Book",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-11.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 70 \u00b7 Type: Rulled (Wiro)"
+  },
+  {
+    "name": "SSC Exam Set",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-12.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 60 \u00b7 Type: Rulled (with & without bar code)"
+  },
+  {
+    "name": "SSC Answer Sheet",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-13.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 60 \u00b7 Type: Rulled"
+  },
+  {
+    "name": "ICSE Answer Sheet",
+    "group": "School Products",
+    "category": "School Essentials",
+    "image": "assets/product-14.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 60 ICSE \u00b7 Type: Rulled"
+  },
+  {
+    "name": "TK Drawing Sheet",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-15.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: 1/2 | A3 | 1/4 | A4 \u00b7 GSM: 140 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Top 10 Color Paper",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-16.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A3 | 1/4 | A4 \u00b7 GSM: 120 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Black Drawing Sheet",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-17.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A3 | 1/4 | A4 \u00b7 GSM: 120 | 300 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Top 10 Neon Paper",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-18.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A3 | 1/4 | A4 \u00b7 GSM: 110 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Ivory Card",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-19.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A3 | A4 \u00b7 GSM: 300 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Project Paper",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-20.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: A4 \u00b7 GSM: 120 Project \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Handmade Paper",
+    "group": "School Products",
+    "category": "Art Papers",
+    "image": "assets/product-21.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: 1/4 | A4 | 22\" X 30\" \u00b7 Pack: 25 \u00b7 Type: LEATHER | EMBOSS | PRINTED"
+  },
+  {
+    "name": "Craft Paper",
+    "group": "School Products",
+    "category": "Craft Papers",
+    "image": "assets/product-22.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: 6\"X6\" \u00b7 GSM: 80 \u00b7 Pack: 20 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Origami Paper",
+    "group": "School Products",
+    "category": "Craft Papers",
+    "image": "assets/product-23.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: 6\"X6\" \u00b7 GSM: 120 Origami \u00b7 Pack: 20 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Origami Top 10",
+    "group": "School Products",
+    "category": "Craft Papers",
+    "image": "assets/product-24.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: 6\"X6\" \u00b7 GSM: 120 \u00b7 Pack: 20 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Crafto Print",
+    "group": "School Products",
+    "category": "Craft Papers",
+    "image": "assets/product-25.webp",
+    "description": "For classroom projects, creative ideas and everyday learning.",
+    "spec": "Size: 6\"X6\" \u00b7 GSM: 120 \u00b7 Pack: 12 \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Printer Paper",
+    "group": "Office Products",
+    "category": "Office Essentials",
+    "image": "assets/product-26.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Size: A4 & A5 \u00b7 GSM: 100 | 80 | 75 \u00b7 Pack: 500"
+  },
+  {
+    "name": "Super Box File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-27.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 4 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Executive Box File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-28.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 4 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Executive Voucher File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-29.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 6 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "File Separator",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-30.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "GSM: 160 \u00b7 Pack: 100 \u00b7 Type: PLAIN COLOR"
+  },
+  {
+    "name": "2 No. Spring File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-31.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 12 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Cobra Spring File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-32.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 12 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Lamina Spring File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-33.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 12 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Extra Strong Cloth Patty",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-34.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 12 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "2 No. Spring File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-35.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 12 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Gold Star Spring File",
+    "group": "Office Products",
+    "category": "Filing and Organisation",
+    "image": "assets/product-36.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Pack: 1 FILES \u00b7 Type: PRINTED"
+  },
+  {
+    "name": "Oasis Cube Pad",
+    "group": "Office Products",
+    "category": "Office Essentials",
+    "image": "assets/product-37.webp",
+    "description": "Everyday organisation and paper essentials for your workspace.",
+    "spec": "Size: 6\"X9\" | 4\"X7\" | 4\"X6\" | 4\"X3\" \u00b7 GSM: 80 \u00b7 Pack: 1 \u00b7 Type: PLAIN"
+  },
+  {
+    "name": "Gift Boxes, Envelopes & Wrappers",
+    "group": "Gifting",
+    "category": "Gift Boxes",
+    "image": "assets/product-38.webp",
+    "description": "Thoughtfully presented packaging for gifting and retail.",
+    "spec": "Ask our team about available sizes and finishes"
+  },
+  {
+    "name": "Paper Bag - Printed",
+    "group": "Gifting",
+    "category": "Paper Bags",
+    "image": "assets/product-39.webp",
+    "description": "Thoughtfully presented packaging for gifting and retail.",
+    "spec": "Pack: 10"
+  },
+  {
+    "name": "Paper Bag - Designer",
+    "group": "Gifting",
+    "category": "Paper Bags",
+    "image": "assets/product-40.webp",
+    "description": "Thoughtfully presented packaging for gifting and retail.",
+    "spec": "Size: 10\"X9\" \u00b7 GSM: 120 \u00b7 Pack: 10"
+  }
+]
