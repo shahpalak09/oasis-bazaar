@@ -1,35 +1,33 @@
 # Oasis Bazaar
 
-Premium stationery, paper, gifting and packaging catalogue for Om Nidhi Trading Pvt. Ltd., Mumbai.
+Stationery, paper, gifting and packaging catalogue for Om Nidhi Trading Pvt. Ltd., Mumbai.
 
-## Run locally
+## Website
+
+https://oasis-bazaar.bronzeegret.chatgpt.site
+
+The website is publicly viewable. Public visitors are not granted editing access. The GitHub repository remains private. There is no automatic sync between GitHub and the hosted website.
+
+## Local preview
 
 ```sh
 python3 -m http.server 8000 --directory dist
 ```
 
-Open http://localhost:8000. No installation or build is needed. Publish `dist` on a static host.
+Open http://localhost:8000. No installation or build step is required. Static hosts should publish `dist`.
 
-## Pages
+## Files and pages
 
-Home, Collections, Diwali Finds, Catalogue, Our Story, Visit Us, Wholesale & Video Calls, Gallery, FAQ and Delivery Information each have separate HTML pages in `dist/`.
+Shared styling is in `dist/style.css`; catalogue data, filters, slideshow, product detail views and WhatsApp forms are in `dist/app.js`. Pages include Home, School Products, Office Products, Gifting, Catalogue, Our Story, Visit Us, Wholesale & Video Calls, Gallery, FAQ and Delivery. Earlier Collections and Diwali Finds pages remain available through their links.
 
-The catalogue, filters, slideshow and WhatsApp interactions live in `dist/app.js`. Styles are in `dist/style.css` and media in `dist/assets/`.
+## Catalogue photos
 
-## Selected gift boxes
-
-Only eight gift-box designs from the supplied box PDF have been added after comparison with the four supplied stock photographs: articles 521, 574, 2046, 5088, 502, 501, 673 and J8. They replace the earlier generic box entries. `dist/matched-boxes.json` records these products; live product data is embedded in app.js. Other PDF boxes are intentionally omitted. Enquiries should confirm dimensions and jar inclusion.
+59 of 69 current products have catalogue or labelled range photos. Ten products await photography. Only eight selected gift-box designs have been included after comparison with the supplied store photos: articles 521, 574, 2046, 5088, 502, 501, 673 and J8. Other box designs were not added. Product dimensions, availability and jar inclusion should be confirmed on enquiry. The three-jar filter currently has no matching product.
 
 ## Enquiries
 
-Product, wholesale and video-call forms open a prefilled WhatsApp message to +91 98675 18902. Visitors review and send messages themselves. Video calls are requests; the team confirms the time and call link. There are no prices, cart or checkout.
+Product, wholesale and video-call request forms open prefilled WhatsApp messages to +91 98675 18902. Visitors review and send messages themselves. The team confirms video-call slots and supplies call links. Prices, cart and checkout are absent.
 
-## Private review site
+## Credits
 
-https://oasis-bazaar.bronzeegret.chatgpt.site
-
-This repository and the hosted review site do not automatically sync. Repository privacy does not control separate hosting access. No GitHub Pages deployment is configured.
-
-## Photos
-
-Product photography comes from supplied Oasis catalogues. Store photographs are credited to Om Nidhi Trading Pvt Ltd and A N via Google Maps; preserve the credits on the site.
+Product images come from supplied Oasis catalogues. Store photos are credited on the website to Om Nidhi Trading Pvt Ltd and A N via Google Maps. Preserve these credits.
