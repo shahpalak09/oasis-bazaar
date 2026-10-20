@@ -1,0 +1,90 @@
+[
+  {
+    "id": 103,
+    "name": "Medallion four-jar gift box \u2014 521",
+    "article": "521",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-3.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 521 \u00b7 4-jar layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 111,
+    "name": "Honeycomb four-jar gift box \u2014 574",
+    "article": "574",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-11.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 574 \u00b7 4-jar layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 116,
+    "name": "Blue lotus gift box \u2014 2046",
+    "article": "2046",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-16.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 2046 \u00b7 Decorative container layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 117,
+    "name": "Turquoise lotus compartment box \u2014 5088",
+    "article": "5088",
+    "group": "Gifting",
+    "category": "Without Jar",
+    "type": "box",
+    "image": "assets/box-17.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 5088 \u00b7 Divided compartment layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 121,
+    "name": "Woodgrain four-jar gift box \u2014 502",
+    "article": "502",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-21.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 502 \u00b7 4-jar layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 132,
+    "name": "Marble four-jar gift box \u2014 501",
+    "article": "501",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-32.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 501 \u00b7 4-jar layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 139,
+    "name": "Plum motif two-jar gift box \u2014 673",
+    "article": "673",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-39.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article 673 \u00b7 2-jar layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  },
+  {
+    "id": 147,
+    "name": "Navy geometric six-jar gift box \u2014 J8",
+    "article": "J8",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-47.webp",
+    "description": "Thoughtful packaging for festive gifts, personal celebrations and business gifting.",
+    "spec": "Article J8 \u00b7 6-jar layout shown \u00b7 Confirm sizes and jar inclusion with our team"
+  }
+]
