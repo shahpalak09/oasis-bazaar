@@ -58,6 +58,3 @@ body{color:var(--ink);background:var(--paper)}h1,h2{font-family:'Libre Caslon Te
 /* Saffron-gold accents complement the dark navy palette. */
 :root{--coral:#927027;--saffron:#dfbd70}
 .collection.gifting{background:#f2ead9;border-color:#e3d8bd}.diwali-links>a>span{color:#927027}.about em,.home-story em{color:#f0cf87}
-
-/* White highlighted heading words, with navy backing on light paper. */
-h1 em,h2 em{color:#fff;background:var(--royal);padding:0 .12em;border-radius:.12em;-webkit-box-decoration-break:clone;box-decoration-break:clone}.about h2 em,.home-story h2 em{color:#fff;background:transparent;padding:0}.wholesale h2 em{color:#fff}
