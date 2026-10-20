@@ -2,42 +2,41 @@
 
 Premium stationery, paper, gifting and packaging catalogue for Om Nidhi Trading Pvt. Ltd., Mumbai.
 
-## Website files
+## Pages
 
-The complete static website is in `dist/`. No dependency installation or build step is required.
+- `dist/index.html`: short homepage previews and gift-box slideshow
+- `dist/collections.html`: Office, School and Gifting collections
+- `dist/diwali.html`: Diwali Finds with a searchable gifting catalogue
+- `dist/catalogue.html`: complete searchable catalogue and product enquiries
+- `dist/about.html`: company story
+- `dist/contact.html`: store photos, directions and contact information
+- `dist/wholesale.html`: wholesale enquiry and video-call request forms
+- `dist/gallery.html`, `dist/faq.html`, `dist/delivery.html`: additional information
 
-- `dist/index.html`: website sections and enquiry forms
-- `dist/style.css`: responsive styling
-- `dist/app.js`: catalogue data, search, category and gift-box filters, Diwali Finds and WhatsApp enquiries
-- `dist/catalogue.json`: extracted 2026 catalogue reference data; the live page currently uses the catalogue embedded in app.js
-- `dist/assets/`: logo, catalogue product photos and store photos
+## Preview
 
-## Preview locally
-
-From the repository folder, run:
+No installation or build is needed. Run:
 
 ```sh
 python3 -m http.server 8000 --directory dist
 ```
 
-Open http://localhost:8000 in your browser.
+Open http://localhost:8000. On a static host, publish the `dist` directory without a build command.
 
-## Current private review website
+## Private review site
 
 https://oasis-bazaar.bronzeegret.chatgpt.site
 
-This repository contains a copy of the current site. GitHub and the hosted review site do not automatically sync. Changes must be applied to both through their respective publishing workflows.
+GitHub contains a copy of the website. There is no automatic sync with the hosted review site. Repository privacy does not control a separate host's access; keep hosting private until approved. No GitHub Pages deployment is configured.
 
-## Hosting elsewhere
+## Editing
 
-Configure a static host to publish the `dist` directory, with no build command. GitHub repository privacy does not automatically protect a separately hosted website; keep hosting access private until the site is approved. No GitHub Pages deployment is configured here.
+`dist/style.css` contains styling. `dist/app.js` holds shared catalogue data, filtering, product detail dialogs, slideshow and WhatsApp forms. `dist/catalogue.json` is an extracted catalogue reference; the app currently uses the embedded data in app.js. Images are stored in `dist/assets/`.
 
-## Enquiries
+## Enquiries and video calls
 
-Product and wholesale forms open a prefilled message at WhatsApp number +91 98675 18902. Visitors review and send their message in WhatsApp. Prices, cart and checkout are intentionally absent.
+Product, wholesale and video-call request forms open prefilled WhatsApp messages to +91 98675 18902. Visitors review and send messages themselves. Video-call requests include the preferred date, time and discussion; the team confirms availability and supplies the call link. This is not an automatic calendar booking. Prices, cart and checkout are intentionally absent.
 
-## Images and product details
+## Photography
 
-Product photos and specifications were sourced from the supplied Oasis Product Catalogue 2026. Some products, including jar and collapsible gift boxes, still use labelled illustrative placeholders. Confirm current sizes, finishes and availability with the business.
-
-Store photographs are credited in the website to Om Nidhi Trading Pvt Ltd and A N via the business's Google Maps listing. Preserve those credits.
+Catalogue images come from the supplied Oasis Product Catalogue 2026. Some products, including jar and collapsible gift boxes, still have labelled placeholders. Store photographs are credited in the website to Om Nidhi Trading Pvt Ltd and A N via Google Maps. Preserve those credits.
