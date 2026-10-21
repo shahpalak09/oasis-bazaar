@@ -130,7 +130,7 @@
     "description": "",
     "spec": "Product code 162 · 4 jar",
     "jarCount": 4,
-    "imageRotation": -90
+    "imageRotation": 0
   },
   {
     "id": 311,
@@ -143,7 +143,7 @@
     "description": "",
     "spec": "Product code 168 · 4 jar",
     "jarCount": 4,
-    "imageRotation": -90
+    "imageRotation": 0
   },
   {
     "id": 312,
@@ -216,7 +216,7 @@
     "description": "",
     "spec": "Product code 6075A · 4 jar",
     "jarCount": 4,
-    "imageRotation": -90
+    "imageRotation": 0
   },
   {
     "id": 402,
@@ -389,7 +389,7 @@
     "description": "",
     "spec": "Product code 6004 · 4 jars",
     "jarCount": 4,
-    "imageRotation": -90
+    "imageRotation": 0
   },
   {
     "id": 510,
