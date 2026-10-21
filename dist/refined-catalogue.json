@@ -63,7 +63,7 @@
     "jarCount": 2,
     "boxCategories": [],
     "sourcePage": 7,
-    "imageRotation": -45
+    "imageRotation": -90
   },
   {
     "id": 1008,
@@ -76,7 +76,8 @@
     "spec": "2-jar layout shown",
     "jarCount": 2,
     "boxCategories": [],
-    "sourcePage": 8
+    "sourcePage": 8,
+    "imageRotation": 90
   },
   {
     "id": 1009,
@@ -116,7 +117,7 @@
     "jarCount": 3,
     "boxCategories": [],
     "sourcePage": 11,
-    "imageRotation": -45
+    "imageRotation": -90
   },
   {
     "id": 1012,
@@ -155,7 +156,8 @@
     "spec": "4-jar layout shown",
     "jarCount": 4,
     "boxCategories": [],
-    "sourcePage": 14
+    "sourcePage": 14,
+    "imageRotation": -90
   },
   {
     "id": 1015,
@@ -169,7 +171,7 @@
     "jarCount": 4,
     "boxCategories": [],
     "sourcePage": 15,
-    "imageRotation": -45
+    "imageRotation": -90
   },
   {
     "id": 1016,
@@ -195,7 +197,8 @@
     "spec": "4-jar layout shown",
     "jarCount": 4,
     "boxCategories": [],
-    "sourcePage": 17
+    "sourcePage": 17,
+    "imageRotation": -90
   },
   {
     "id": 1018,
@@ -314,7 +317,8 @@
     "boxCategories": [
       "Top Bottom Boxes"
     ],
-    "sourcePage": 26
+    "sourcePage": 26,
+    "imageRotation": -90
   },
   {
     "id": 1027,
@@ -329,7 +333,8 @@
     "boxCategories": [
       "Corrugated Boxes"
     ],
-    "sourcePage": 27
+    "sourcePage": 27,
+    "imageRotation": -90
   },
   {
     "id": 1028,
@@ -462,7 +467,8 @@
     "boxCategories": [
       "Collapsible Boxes"
     ],
-    "sourcePage": 36
+    "sourcePage": 36,
+    "imageRotation": -90
   },
   {
     "id": 1037,
@@ -492,7 +498,8 @@
     "boxCategories": [
       "Collapsible Boxes"
     ],
-    "sourcePage": 38
+    "sourcePage": 38,
+    "imageRotation": -90
   },
   {
     "id": 1039,
@@ -550,7 +557,8 @@
     "boxCategories": [
       "Suitcase Boxes"
     ],
-    "sourcePage": 42
+    "sourcePage": 42,
+    "imageRotation": -90
   },
   {
     "id": 1043,
@@ -565,7 +573,8 @@
     "boxCategories": [
       "Acrylic Boxes"
     ],
-    "sourcePage": 43
+    "sourcePage": 43,
+    "imageRotation": -90
   },
   {
     "id": 1044,
@@ -593,7 +602,8 @@
     "boxCategories": [
       "Mithai Boxes"
     ],
-    "sourcePage": 45
+    "sourcePage": 45,
+    "imageRotation": -90
   },
   {
     "id": 1046,
@@ -638,7 +648,8 @@
     "boxCategories": [
       "Mithai Boxes"
     ],
-    "sourcePage": 48
+    "sourcePage": 48,
+    "imageRotation": -90
   },
   {
     "id": 1049,
@@ -653,7 +664,8 @@
     "boxCategories": [
       "Mithai Boxes"
     ],
-    "sourcePage": 49
+    "sourcePage": 49,
+    "imageRotation": -90
   },
   {
     "id": 1050,
@@ -743,7 +755,8 @@
     "boxCategories": [
       "Mithai Boxes"
     ],
-    "sourcePage": 55
+    "sourcePage": 55,
+    "imageRotation": -90
   },
   {
     "id": 1056,
@@ -892,7 +905,8 @@
       "Acrylic Boxes",
       "Trays & Baskets"
     ],
-    "sourcePage": 65
+    "sourcePage": 65,
+    "imageRotation": -90
   },
   {
     "id": 1066,
