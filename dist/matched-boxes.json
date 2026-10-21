@@ -247,6 +247,18 @@
     "jarCount": 2
   },
   {
+    "id": 406,
+    "name": "4 Jar Highpunch Pichwai — 6004E",
+    "article": "6004E",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/catalogue-box-6004e.webp",
+    "description": "",
+    "spec": "Product code 6004E · 4 jar",
+    "jarCount": 4
+  },
+  {
     "id": 407,
     "name": "2 Jar Elephant Printed — 160",
     "article": "160",
@@ -485,6 +497,18 @@
     "image": "assets/box-17.webp",
     "description": "",
     "spec": "Product code 5088 · 4 jar",
+    "jarCount": 4
+  },
+  {
+    "id": 121,
+    "name": "Woodgrain four-jar gift box — 502",
+    "article": "502",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/box-21.webp",
+    "description": "",
+    "spec": "Article 502 · 4-jar layout shown",
     "jarCount": 4
   },
   {
