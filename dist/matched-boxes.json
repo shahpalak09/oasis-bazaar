@@ -488,7 +488,7 @@
     "name": "Turquoise lotus compartment box \u2014 5088",
     "article": "5088",
     "group": "Gifting",
-    "category": "Without Jar",
+    "category": "Gift Boxes",
     "type": "box",
     "image": "assets/box-17.webp",
     "description": "",
@@ -574,7 +574,11 @@
     "image": "assets/additional-box-3.webp",
     "description": "",
     "jarCount": 2,
-    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry",
+    "images": [
+      "assets/additional-box-3.webp",
+      "assets/refined-04.webp"
+    ]
   },
   {
     "id": 603,
@@ -651,7 +655,11 @@
     "image": "assets/additional-box-10.webp",
     "description": "",
     "jarCount": 2,
-    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry",
+    "images": [
+      "assets/additional-box-10.webp",
+      "assets/refined-03.webp"
+    ]
   },
   {
     "id": 610,
