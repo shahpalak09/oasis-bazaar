@@ -3,12 +3,13 @@
     "id": 600,
     "name": "Navy Decorative Tin",
     "group": "Gifting",
-    "category": "Gift Tins",
-    "type": "box",
+    "category": "Jars",
+    "type": "jar",
     "image": "assets/additional-box-1.webp",
     "description": "",
     "jarCount": null,
-    "spec": "Decorative metal tin \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "Decorative metal tin",
+    "boxCategories": []
   },
   {
     "id": 601,
@@ -19,7 +20,7 @@
     "image": "assets/additional-box-2.webp",
     "description": "",
     "jarCount": null,
-    "spec": "Decorative metal tin \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "Decorative metal tin"
   },
   {
     "id": 602,
@@ -30,7 +31,7 @@
     "image": "assets/additional-box-3.webp",
     "description": "",
     "jarCount": 2,
-    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "2-jar layout shown"
   },
   {
     "id": 603,
@@ -41,7 +42,7 @@
     "image": "assets/additional-box-4.webp",
     "description": "",
     "jarCount": 4,
-    "spec": "4-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "4-jar layout shown"
   },
   {
     "id": 604,
@@ -52,7 +53,7 @@
     "image": "assets/additional-box-5.webp",
     "description": "",
     "jarCount": 2,
-    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "2-jar layout shown"
   },
   {
     "id": 605,
@@ -63,7 +64,7 @@
     "image": "assets/additional-box-6.webp",
     "description": "",
     "jarCount": 6,
-    "spec": "6-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "6-jar layout shown"
   },
   {
     "id": 606,
@@ -74,7 +75,7 @@
     "image": "assets/additional-box-7.webp",
     "description": "",
     "jarCount": 3,
-    "spec": "3-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "3-jar layout shown"
   },
   {
     "id": 607,
@@ -85,7 +86,7 @@
     "image": "assets/additional-box-8.webp",
     "description": "",
     "jarCount": null,
-    "spec": "Decorative metal tin \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "Decorative metal tin"
   },
   {
     "id": 608,
@@ -96,7 +97,7 @@
     "image": "assets/additional-box-9.webp",
     "description": "",
     "jarCount": 6,
-    "spec": "6-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "6-jar layout shown"
   },
   {
     "id": 609,
@@ -107,7 +108,7 @@
     "image": "assets/additional-box-10.webp",
     "description": "",
     "jarCount": 2,
-    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "2-jar layout shown"
   },
   {
     "id": 610,
@@ -118,7 +119,7 @@
     "image": "assets/additional-box-11.webp",
     "description": "",
     "jarCount": 4,
-    "spec": "4-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "4-jar layout shown"
   },
   {
     "id": 611,
@@ -129,7 +130,7 @@
     "image": "assets/additional-box-12.webp",
     "description": "",
     "jarCount": 6,
-    "spec": "6-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "6-jar layout shown"
   },
   {
     "id": 612,
@@ -140,6 +141,6 @@
     "image": "assets/additional-box-13.webp",
     "description": "",
     "jarCount": 3,
-    "spec": "3-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+    "spec": "3-jar layout shown"
   }
 ]
