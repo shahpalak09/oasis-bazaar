@@ -1,0 +1,145 @@
+[
+  {
+    "id": 600,
+    "name": "Navy Decorative Tin",
+    "group": "Gifting",
+    "category": "Gift Tins",
+    "type": "box",
+    "image": "assets/additional-box-1.webp",
+    "description": "",
+    "jarCount": null,
+    "spec": "Decorative metal tin \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 601,
+    "name": "Peacock and Elephant Metal Tin",
+    "group": "Gifting",
+    "category": "Gift Tins",
+    "type": "box",
+    "image": "assets/additional-box-2.webp",
+    "description": "",
+    "jarCount": null,
+    "spec": "Decorative metal tin \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 602,
+    "name": "Patchwork Burgundy Two-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-3.webp",
+    "description": "",
+    "jarCount": 2,
+    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 603,
+    "name": "Bronze Four-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-4.webp",
+    "description": "",
+    "jarCount": 4,
+    "spec": "4-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 604,
+    "name": "Bronze Two-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-5.webp",
+    "description": "",
+    "jarCount": 2,
+    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 605,
+    "name": "Bronze Six-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-6.webp",
+    "description": "",
+    "jarCount": 6,
+    "spec": "6-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 606,
+    "name": "Bronze Three-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-7.webp",
+    "description": "",
+    "jarCount": 3,
+    "spec": "3-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 607,
+    "name": "Burgundy Mughal Floral Tin",
+    "group": "Gifting",
+    "category": "Gift Tins",
+    "type": "box",
+    "image": "assets/additional-box-8.webp",
+    "description": "",
+    "jarCount": null,
+    "spec": "Decorative metal tin \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 608,
+    "name": "Champagne Laser-Cut Six-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-9.webp",
+    "description": "",
+    "jarCount": 6,
+    "spec": "6-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 609,
+    "name": "Marble Two-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-10.webp",
+    "description": "",
+    "jarCount": 2,
+    "spec": "2-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 610,
+    "name": "Laser-Cut Four-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-11.webp",
+    "description": "",
+    "jarCount": 4,
+    "spec": "4-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 611,
+    "name": "Lavender Mandala Six-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-12.webp",
+    "description": "",
+    "jarCount": 6,
+    "spec": "6-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  },
+  {
+    "id": 612,
+    "name": "Multicolour Three-Jar Gift Box",
+    "group": "Gifting",
+    "category": "With Jar",
+    "type": "box",
+    "image": "assets/additional-box-13.webp",
+    "description": "",
+    "jarCount": 3,
+    "spec": "3-jar layout shown \u00b7 Confirm dimensions and contents on enquiry"
+  }
+]
