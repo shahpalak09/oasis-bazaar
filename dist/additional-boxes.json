@@ -15,12 +15,13 @@
     "id": 601,
     "name": "Peacock and Elephant Metal Tin",
     "group": "Gifting",
-    "category": "Gift Tins",
-    "type": "box",
+    "category": "Jars",
+    "type": "jar",
     "image": "assets/additional-box-2.webp",
     "description": "",
     "jarCount": null,
-    "spec": "Decorative metal tin"
+    "spec": "Decorative metal tin",
+    "boxCategories": []
   },
   {
     "id": 602,
@@ -81,12 +82,13 @@
     "id": 607,
     "name": "Burgundy Mughal Floral Tin",
     "group": "Gifting",
-    "category": "Gift Tins",
-    "type": "box",
+    "category": "Jars",
+    "type": "jar",
     "image": "assets/additional-box-8.webp",
     "description": "",
     "jarCount": null,
-    "spec": "Decorative metal tin"
+    "spec": "Decorative metal tin",
+    "boxCategories": []
   },
   {
     "id": 608,

@@ -1,116 +1,5 @@
 [
   {
-    "id": 116,
-    "name": "Blue lotus gift box — 2046",
-    "article": "2046",
-    "group": "Gifting",
-    "category": "With Jar",
-    "type": "box",
-    "image": "assets/box-16.webp",
-    "description": "",
-    "spec": "Article 2046 · Decorative container layout shown",
-    "jarCount": null
-  },
-  {
-    "id": 117,
-    "name": "Turquoise lotus compartment box — 5088",
-    "article": "5088",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/box-17.webp",
-    "description": "",
-    "spec": "Article 5088 · Divided compartment layout shown",
-    "jarCount": 0
-  },
-  {
-    "id": 601,
-    "name": "Peacock and Elephant Metal Tin",
-    "group": "Gifting",
-    "category": "Gift Tins",
-    "type": "box",
-    "image": "assets/additional-box-2.webp",
-    "description": "",
-    "jarCount": null,
-    "spec": "Decorative metal tin"
-  },
-  {
-    "id": 607,
-    "name": "Burgundy Mughal Floral Tin",
-    "group": "Gifting",
-    "category": "Gift Tins",
-    "type": "box",
-    "image": "assets/additional-box-8.webp",
-    "description": "",
-    "jarCount": null,
-    "spec": "Decorative metal tin"
-  },
-  {
-    "id": 1007,
-    "name": "Red Single-Jar Presentation Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-07.webp",
-    "description": "",
-    "spec": "1-jar layout shown",
-    "jarCount": 1,
-    "boxCategories": [],
-    "sourcePage": 7
-  },
-  {
-    "id": 1011,
-    "name": "Red Embossed Three-Compartment Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-11.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 11
-  },
-  {
-    "id": 1015,
-    "name": "Turquoise Lotus Compartment Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-15.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 15
-  },
-  {
-    "id": 1028,
-    "name": "Yellow Floral Carry Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-28.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 28
-  },
-  {
-    "id": 1033,
-    "name": "Navy Pavilion Compartment Carry Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-33.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 33
-  },
-  {
     "id": 1035,
     "name": "Mint Floral Carry Gift Box",
     "group": "Gifting",
@@ -124,45 +13,6 @@
     "sourcePage": 35
   },
   {
-    "id": 1038,
-    "name": "Green Marble Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-38.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 38
-  },
-  {
-    "id": 1040,
-    "name": "Cane-Panel Attache Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-40.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 40
-  },
-  {
-    "id": 1042,
-    "name": "Ivory Trunk Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-42.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 42
-  },
-  {
     "id": 1044,
     "name": "Pink Window Carry Gift Box",
     "group": "Gifting",
@@ -174,18 +24,5 @@
     "jarCount": null,
     "boxCategories": [],
     "sourcePage": 44
-  },
-  {
-    "id": 1051,
-    "name": "Yellow Floral Handle Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-51.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 51
   }
 ]

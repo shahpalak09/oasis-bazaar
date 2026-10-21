@@ -53,16 +53,17 @@
   },
   {
     "id": 1007,
-    "name": "Red Single-Jar Presentation Box",
+    "name": "Red Two-Jar Presentation Box",
     "group": "Gifting",
     "category": "Gift Boxes",
     "type": "box",
     "image": "assets/refined-07.webp",
     "description": "",
-    "spec": "1-jar layout shown",
-    "jarCount": 1,
+    "spec": "2 jar",
+    "jarCount": 2,
     "boxCategories": [],
-    "sourcePage": 7
+    "sourcePage": 7,
+    "imageRotation": -45
   },
   {
     "id": 1008,
@@ -111,10 +112,11 @@
     "type": "box",
     "image": "assets/refined-11.webp",
     "description": "",
-    "spec": "",
-    "jarCount": null,
+    "spec": "3 jar",
+    "jarCount": 3,
     "boxCategories": [],
-    "sourcePage": 11
+    "sourcePage": 11,
+    "imageRotation": -45
   },
   {
     "id": 1012,
@@ -163,10 +165,11 @@
     "type": "box",
     "image": "assets/refined-15.webp",
     "description": "",
-    "spec": "",
-    "jarCount": null,
+    "spec": "4 jar",
+    "jarCount": 4,
     "boxCategories": [],
-    "sourcePage": 15
+    "sourcePage": 15,
+    "imageRotation": -45
   },
   {
     "id": 1016,
@@ -338,7 +341,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Corrugated Boxes"
+    ],
     "sourcePage": 28
   },
   {
@@ -411,7 +416,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Top Bottom Boxes"
+    ],
     "sourcePage": 33
   },
   {
@@ -482,7 +489,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Collapsible Boxes"
+    ],
     "sourcePage": 38
   },
   {
@@ -510,7 +519,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Rattan Boxes"
+    ],
     "sourcePage": 40
   },
   {
@@ -536,7 +547,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Suitcase Boxes"
+    ],
     "sourcePage": 42
   },
   {
@@ -667,7 +680,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Corrugated Boxes"
+    ],
     "sourcePage": 51
   },
   {
@@ -874,7 +889,8 @@
     "spec": "",
     "jarCount": null,
     "boxCategories": [
-      "Acrylic Boxes"
+      "Acrylic Boxes",
+      "Trays & Baskets"
     ],
     "sourcePage": 65
   },
