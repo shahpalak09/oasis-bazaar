@@ -1,0 +1,21 @@
+[
+  {
+    "id": 3001,
+    "name": "Printed Window Gift Boxes",
+    "group": "Gifting",
+    "category": "Gift Boxes",
+    "boxCategories": [
+      "Top Bottom Boxes"
+    ],
+    "type": "box",
+    "image": "assets/printed-window-boxes-3503.webp",
+    "images": [
+      "assets/printed-window-boxes-3503.webp",
+      "assets/printed-window-boxes-3504.webp",
+      "assets/printed-window-boxes-3505.webp"
+    ],
+    "description": "",
+    "spec": "Top & bottom lid · Clear window · Ribbon handles",
+    "jarCount": null
+  }
+]
