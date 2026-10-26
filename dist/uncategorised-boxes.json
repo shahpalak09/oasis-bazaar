@@ -1,18 +1,5 @@
 [
   {
-    "id": 1035,
-    "name": "Mint Floral Carry Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "type": "box",
-    "image": "assets/refined-35.webp",
-    "description": "",
-    "spec": "",
-    "jarCount": null,
-    "boxCategories": [],
-    "sourcePage": 35
-  },
-  {
     "id": 1044,
     "name": "Pink Window Carry Gift Box",
     "group": "Gifting",
@@ -24,18 +11,5 @@
     "jarCount": null,
     "boxCategories": [],
     "sourcePage": 44
-  },
-  {
-    "id": 4002,
-    "name": "Red and Gold Handled Gift Box",
-    "group": "Gifting",
-    "category": "Gift Boxes",
-    "boxCategories": [],
-    "type": "box",
-    "image": "assets/beautified-box-02.webp",
-    "description": "",
-    "spec": "Printed design · Carry handle",
-    "jarCount": null,
-    "sourcePage": 2
   }
 ]

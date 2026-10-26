@@ -5,7 +5,7 @@
     "group": "Gifting",
     "category": "Gift Boxes",
     "boxCategories": [
-      "Mithai Boxes"
+      "Collapsible Boxes"
     ],
     "type": "box",
     "image": "assets/beautified-box-01.webp",
@@ -19,7 +19,9 @@
     "name": "Red and Gold Handled Gift Box",
     "group": "Gifting",
     "category": "Gift Boxes",
-    "boxCategories": [],
+    "boxCategories": [
+      "Corrugated Boxes"
+    ],
     "type": "box",
     "image": "assets/beautified-box-02.webp",
     "description": "",
@@ -93,7 +95,7 @@
     "group": "Gifting",
     "category": "Gift Boxes",
     "boxCategories": [
-      "Mithai Boxes"
+      "Collapsible Boxes"
     ],
     "type": "box",
     "image": "assets/beautified-box-07.webp",

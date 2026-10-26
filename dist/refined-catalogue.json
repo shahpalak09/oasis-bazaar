@@ -451,7 +451,9 @@
     "description": "",
     "spec": "",
     "jarCount": null,
-    "boxCategories": [],
+    "boxCategories": [
+      "Collapsible Boxes"
+    ],
     "sourcePage": 35
   },
   {
