@@ -5,7 +5,7 @@
     "group": "Gifting",
     "category": "Gift Boxes",
     "boxCategories": [
-      "Collapsible Boxes"
+      "Corrugated Boxes"
     ],
     "type": "box",
     "image": "assets/beautified-box-01.webp",
@@ -95,7 +95,7 @@
     "group": "Gifting",
     "category": "Gift Boxes",
     "boxCategories": [
-      "Collapsible Boxes"
+      "Corrugated Boxes"
     ],
     "type": "box",
     "image": "assets/beautified-box-07.webp",
