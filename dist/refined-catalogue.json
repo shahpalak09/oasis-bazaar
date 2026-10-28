@@ -695,9 +695,15 @@
     "spec": "",
     "jarCount": null,
     "boxCategories": [
-      "Corrugated Boxes"
+      "Collapsible Boxes"
     ],
-    "sourcePage": 51
+    "sourcePage": 51,
+    "images": [
+      "assets/refined-51.webp",
+      "assets/collapsible-3399-10.webp",
+      "assets/collapsible-3399-08.webp",
+      "assets/collapsible-3399-09.webp"
+    ]
   },
   {
     "id": 1052,

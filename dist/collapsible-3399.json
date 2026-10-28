@@ -1,0 +1,80 @@
+[
+  {
+    "id": 4101,
+    "name": "Navy Floral Pavilion Collapsible Gift Box",
+    "group": "Gifting",
+    "category": "Gift Boxes",
+    "boxCategories": [
+      "Collapsible Boxes"
+    ],
+    "type": "box",
+    "image": "assets/collapsible-3399-06.webp",
+    "images": [
+      "assets/collapsible-3399-06.webp",
+      "assets/collapsible-3399-01.webp",
+      "assets/collapsible-3399-05.webp"
+    ],
+    "description": "",
+    "spec": "Pavilion and floral print · Multiple formats shown",
+    "jarCount": null
+  },
+  {
+    "id": 4102,
+    "name": "Lavender Pavilion Collapsible Gift Box",
+    "group": "Gifting",
+    "category": "Gift Boxes",
+    "boxCategories": [
+      "Collapsible Boxes"
+    ],
+    "type": "box",
+    "image": "assets/collapsible-3399-07.webp",
+    "images": [
+      "assets/collapsible-3399-07.webp",
+      "assets/collapsible-3399-02.webp",
+      "assets/collapsible-3399-03.webp",
+      "assets/collapsible-3399-04.webp",
+      "assets/collapsible-3399-11.webp"
+    ],
+    "description": "",
+    "spec": "Pavilion print · Multiple formats shown",
+    "jarCount": null
+  },
+  {
+    "id": 4103,
+    "name": "Navy Pavilion Handle Collapsible Gift Box",
+    "group": "Gifting",
+    "category": "Gift Boxes",
+    "boxCategories": [
+      "Collapsible Boxes"
+    ],
+    "type": "box",
+    "image": "assets/collapsible-3399-12.webp",
+    "images": [
+      "assets/collapsible-3399-12.webp"
+    ],
+    "description": "",
+    "spec": "Carry handle · Folding construction",
+    "jarCount": null
+  },
+  {
+    "id": 1051,
+    "name": "Yellow Floral Handle Gift Box",
+    "group": "Gifting",
+    "category": "Gift Boxes",
+    "type": "box",
+    "image": "assets/refined-51.webp",
+    "description": "",
+    "spec": "",
+    "jarCount": null,
+    "boxCategories": [
+      "Collapsible Boxes"
+    ],
+    "sourcePage": 51,
+    "images": [
+      "assets/refined-51.webp",
+      "assets/collapsible-3399-10.webp",
+      "assets/collapsible-3399-08.webp",
+      "assets/collapsible-3399-09.webp"
+    ]
+  }
+]
